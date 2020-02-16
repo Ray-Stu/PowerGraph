@@ -79,7 +79,7 @@ make -j 3
 
   **解决方案：**直接网上下载对应的压缩包，然后放至对应路径，若下载包的版本不一样，则修改相应CMakeLists.txt文件中包的md5值。
 
-  本处提供一个经本人修改后的CMakeLists.txt,直接替换即可。
+  本仓库的CMakeList经笔者修改过，直接使用即可。
 
 ### 3.2 /hadoop/src/hadoop/src/c++/libhdfs/configure: Permission denied
 
